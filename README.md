@@ -38,8 +38,8 @@
 - [Getting Started](#getting-started)
 - [Repository Structure](#repository-structure)
 - [Common Beginner Mistakes](#common-beginner-mistakes)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ---
 
