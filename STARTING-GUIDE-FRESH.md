@@ -1,4 +1,4 @@
-# 🚀 Quick Start Guide - SOC Analyst Projects
+# 🚀  Start Guide - SOC Analyst Projects
 
 [![Projects](https://img.shields.io/badge/Projects-6-blue.svg)]()
 [![Timeline](https://img.shields.io/badge/Timeline-3--5%20Months-orange.svg)]()
