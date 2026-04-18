@@ -351,12 +351,12 @@ Build manual investigation skills before automating. Every automation skill in t
 
 | # | Project | Platform | Duration | Difficulty | Skills |
 |---|---------|----------|----------|------------|--------|
-| **1** | [Live SOC Monitoring](templates/Project-1-Template.md) | LetsDefend | 2–3 weeks | Beginner | Alert triage, log analysis, SOC workflow |
-| **2** | [Phishing Email Analysis](templates/Project-2-Template.md) | CyberDefenders | 1–2 weeks | Beginner–Int | Email forensics, header analysis, IOC extraction |
-| **3** | [Incident Response (SIEM)](templates/Project-3-Template.md) | TryHackMe | 2–3 weeks | Intermediate | Splunk/Elastic queries, MITRE ATT&CK mapping |
-| **4** | [Ransomware Forensics](templates/Project-4-Template.md) | CyberDefenders | 2 weeks | Int–Advanced | Memory analysis, PCAP investigation, Volatility |
-| **5** | [Threat Hunting](templates/Project-5-Template.md) | TryHackMe | 2–3 weeks | Int–Advanced | Hypothesis-driven hunting, IOC correlation |
-| **6** | [Detection Engineering](templates/Project-6-Template.md) | Home Lab | 2–3 weeks | Advanced | Sigma rule writing, GitHub publication |
+| **1** | [Live SOC Monitoring](Project-1) | LetsDefend | 2–3 weeks | Beginner | Alert triage, log analysis, SOC workflow |
+| **2** | [Phishing Email Analysis](Project-2) | CyberDefenders | 1–2 weeks | Beginner–Int | Email forensics, header analysis, IOC extraction |
+| **3** | [Incident Response (SIEM)](Project-3) | TryHackMe | 2–3 weeks | Intermediate | Splunk/Elastic queries, MITRE ATT&CK mapping |
+| **4** | [Ransomware Forensics](Project-4) | CyberDefenders | 2 weeks | Int–Advanced | Memory analysis, PCAP investigation, Volatility |
+| **5** | [Threat Hunting](Project-5) | TryHackMe | 2–3 weeks | Int–Advanced | Hypothesis-driven hunting, IOC correlation |
+| **6** | [Detection Engineering](Project-6d) | Home Lab | 2–3 weeks | Advanced | Sigma rule writing, GitHub publication |
 
 **What each project builds:**
 - **Project 1** teaches you how a real SOC queue works — you review alerts, check context, decide if it is a real threat or a false positive, and document your findings. This is the daily reality of an L1 analyst.
@@ -374,8 +374,8 @@ Build manual investigation skills before automating. Every automation skill in t
 
 | # | Project | Platform | Duration | Difficulty | Skills |
 |---|---------|----------|----------|------------|--------|
-| **7** | [Automated Phishing Responder](templates/Project-7-Template.md) ⭐ | Wazuh + Shuffle + TheHive | 2–3 weeks | Advanced | SOAR orchestration, playbook automation, API integration |
-| **8** | [Automated Threat Intelligence Platform](templates/Project-8-Template.md) 🚀 | MISP + OpenCTI + Cortex + ML | 3–4 weeks | Enterprise | ML-based IOC filtering, STIX/TAXII, automated detections |
+| **7** | [Automated Phishing Responder](Project-7) ⭐ | Wazuh + Shuffle + TheHive | 2–3 weeks | Advanced | SOAR orchestration, playbook automation, API integration |
+| **8** | [Automated Threat Intelligence Platform](Project-8) 🚀 | MISP + OpenCTI + Cortex + ML | 3–4 weeks | Enterprise | ML-based IOC filtering, STIX/TAXII, automated detections |
 
 **Project 7 — Automated Phishing Responder:**
 You build an end-to-end automated response workflow. When a phishing alert triggers, the system automatically extracts IOCs, checks them against threat feeds, creates a case in TheHive, sends notifications, and blocks the threat — all without manual analyst intervention. This is real SOAR work.
@@ -390,7 +390,7 @@ You build an end-to-end automated response workflow. When a phishing alert trigg
 
 ### Future-State Projects (9–10)
 
-Outlined in [2026-Automation-First-Roadmap.md](2026-Automation-First-Roadmap.md)
+Outlined in [2026-Automation-Roadmap.md](2026-Automation-First-Roadmap.md)
 
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
@@ -502,6 +502,7 @@ text
 - SEC598: AI SOC Orchestration
 - Azure AI Engineer (AI-102)
 - CompTIA CySA+ — cybersecurity analyst certification
+- MICROSOFT - SC 200
 
 ---
 
@@ -510,7 +511,7 @@ text
 ### **Today (30 minutes)**
 
 1. ⭐ Star this repository
-2. 📖 Read [QUICK-START-GUIDE.md](QUICK-START-GUIDE.md)
+2. 📖 Read [STARTING-GUIDE-FRESH.md](START-GUIDE-FRESH.md)
 3. 📚 Start Section 1 of beginner basics — Networking Fundamentals
 4. 🔐 Create accounts on LetsDefend, TryHackMe, and CyberDefenders
 
@@ -523,7 +524,7 @@ text
 
 ### **Week 4 (Start Projects)**
 
-9. 📂 Open [templates/Project-1-Template.md](templates/Project-1-Template.md)
+9. 📂 Open Prokect 1-8 
 10. 🎯 Complete Day 1–7 tasks — triage your first 20 alerts
 11. 📝 Start your triage log and document every alert
 
