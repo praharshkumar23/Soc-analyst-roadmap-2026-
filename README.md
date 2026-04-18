@@ -538,7 +538,8 @@ text
 ## 📁 Repository Structure
 soc-analyst-roadmap-2026/
 ├── README.md ← You are here
-├── QUICK-START-GUIDE.md ← 👈 Read after README
+├──BEGINNER-BASICS.md 👈 Read after README
+├── STARTING-GUIDE.md ← 👈 Read after Basics
 ├── SOC-Analyst-Roadmap.md ← Core 6 foundation projects
 ├── 2026-Automation-First-Roadmap.md ← Future skills (AI, SOAR, cloud)
 ├── INTEGRATION-GUIDE.md ← How all parts connect
@@ -551,7 +552,7 @@ soc-analyst-roadmap-2026/
 │ ├── Project-6-Template.md (Detection Engineering)
 │ ├── Project-7-Template.md (Automated Phishing Responder)
 │ └── Project-8-Template.md (Automated TIP)
-└── LICENSE
+└── INTERVIEW Preparation 
 
 text
 
@@ -589,9 +590,7 @@ This is a community training program. Contributions are welcome.
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 **You are free to:**
 - ✅ Use for personal learning
@@ -623,7 +622,7 @@ If this roadmap helped you land a job or build your skills, consider giving it a
 
 **What you have:**
 - ✅ Complete beginner basics — networking, Linux, Windows, attacks
-- ✅ Full training program (147,000+ words)
+- ✅ Full training program 
 - ✅ 10 project blueprints (8 detailed templates)
 - ✅ Day-by-day execution plans
 - ✅ Resume bullets and interview prep
@@ -636,7 +635,7 @@ If this roadmap helped you land a job or build your skills, consider giving it a
 
 **The SOC analyst career you want is 8 weeks away.**
 
-**Your move. 🔒🚀**
+
 
 ---
 
@@ -644,8 +643,8 @@ If this roadmap helped you land a job or build your skills, consider giving it a
 
 ### **Stop reading. Start executing.**
 
-**[👉 Begin with the Quick Start Guide →](QUICK-START-GUIDE.md)**
+**[👉 Begin with the Basics →](BEGINNER-BASICS.md)**
 
-Made with 🔐 for aspiring SOC analysts
+Made for aspiring SOC analysts
 
 </div>
