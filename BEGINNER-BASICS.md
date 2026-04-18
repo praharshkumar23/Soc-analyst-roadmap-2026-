@@ -1254,7 +1254,7 @@ You are ready when you can:
 > ✅ **Basics complete. Now move to the projects.**
 > You now have more foundational knowledge than 80% of freshers who apply for SOC roles. Time to turn that into real project work.
 
-**[👉 Continue to -START-GUIDE.md →](STARTING-GUIDE.md)**
+**[👉 Continue to -START-GUIDE.md →](STARTING-GUIDE-FRESH.md)**
 
 ---
 
